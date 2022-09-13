@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishav-y
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL & R language
+- 🌱 I’m currently looking for opportunities in the field of data analytics
 - 💞️ I’m looking to collaborate on different data analysis tools and projects
 - 📫 How to reach me- yadavrishav6@gmail.com
 
